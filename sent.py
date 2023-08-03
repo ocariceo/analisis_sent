@@ -1,5 +1,5 @@
 import streamlit as st
-import streamlit_tags as tags
+#import streamlit_tags as tags
 st.set_page_config(
         page_title="Análisis de Textos",
         page_icon=":speech_balloon:",
