@@ -1,9 +1,11 @@
 import streamlit as st
+'''
 st.set_page_config(
         page_title="Análisis de Textos",
         page_icon=":speech_balloon:",
         #layout="wide",
     )
+'''
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 import nltk, re
