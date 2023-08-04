@@ -6,7 +6,7 @@ st.set_page_config(
         #layout="wide",
     #)
 
-from wordcloud import WordCloud
+import wordcloud 
 import matplotlib.pyplot as plt
 import nltk, re
 nltk.download('stopwords')
