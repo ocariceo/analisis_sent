@@ -7,7 +7,7 @@ st.set_page_config(
     )
 
 import matplotlib.pyplot as plt
-from wordcloud import Wordcloud 
+from wordcloud import WordCloud 
 import nltk, re
 nltk.download('stopwords')
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
