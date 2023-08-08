@@ -74,7 +74,7 @@ with st.expander('Analizar el texto'):
 
 #Subir listado de literales
 st.sidebar.header('Analiza un conjunto de textos')
-st.sidebar.write('1. En un archivo Excel crea una columna con el nombre "Comentarios".')        
+st.sidebar.write('1. En un archivo Excel crea una columna con el nombre "Comentario".')        
 #st.sidebar.image('/Users/s1059121/Documents/python/ejemplo.png', width = 200)
 st.sidebar.write('2. Incluye en cada fila el texto individual para analizar.')
 st.sidebar.write('3. Guarda el archivo y súbelo a continuación.')
