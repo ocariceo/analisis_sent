@@ -39,7 +39,7 @@ st.set_option('deprecation.showPyplotGlobalUse', False)
 #st.subheader("Ingresa un texto")
 
 
-text = st.text_input("Ingresa un texto y presiona enter")
+text = st.text_input("Copia y pega un texto, luego presiona enter")
 
 
 
